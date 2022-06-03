@@ -1,6 +1,6 @@
 # CeyRo Traffic Sign and Traffic Light Dataset
 
-![classes_grid](https://github.com/oshadajay/CeyRo-Test/blob/main/figures/classes_grid.png)
+![classes_grid](https://github.com/oshadajay/CeyRo/blob/main/figures/classes_grid.png)
 
 ## Overview
 
@@ -21,7 +21,7 @@ The train set, the test set and a sample of the CeyRo traffic sign and traffic l
 The traffic sign and traffic light annotations are provided as bounding boxes in the PASCAL VOC format.
 [LabelImg](https://github.com/tzutalin/labelImg) can be used to visualize the bounding box annotations (Images and XML files should be copied to the same folder).
 
-![annotation_format](https://github.com/oshadajay/CeyRo-Test/blob/main/figures/annotation_format.png)
+![annotation_format](https://github.com/oshadajay/CeyRo/blob/main/figures/annotation_format.png)
 
 ## Statistics
 
